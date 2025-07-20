@@ -1,0 +1,69 @@
+[
+    {
+      "sender": "Alice",
+      "subject": "Project Update",
+      "content": "Hey, we finished the first milestone!",
+      "read": false
+    },
+    {
+      "sender": "Bob",
+      "subject": "Lunch?",
+      "content": "Want to grab lunch at 12?",
+      "read": true
+    },
+    {
+      "sender": "Charlie",
+      "subject": "Team Meeting",
+      "content": "Reminder: Team sync at 3 PM today in Conference Room A.",
+      "read": false
+    },
+    {
+      "sender": "Charlie",
+      "subject": "Vacation Request",
+      "content": "I've submitted my leave request for next week. Please approve.",
+      "read": false
+    },
+    {
+      "sender": "Diana",
+      "subject": "Vacation Request",
+      "content": "I've submitted my leave request for next week. Please approve.",
+      "read": true
+    },
+    {
+      "sender": "Eve",
+      "subject": "Security Alert",
+      "content": "Unusual login detected from a new device. Please verify.",
+      "read": false
+    },
+    {
+      "sender": "Frank",
+      "subject": "Budget Approval",
+      "content": "The Q3 budget has been approved. Let me know if you have questions.",
+      "read": true
+    },
+    {
+      "sender": "Grace",
+      "subject": "Happy Birthday!",
+      "content": "Wishing you a fantastic birthday filled with joy and surprises!",
+      "read": false
+    },
+    {
+      "sender": "Henry",
+      "subject": "Invoice #1245",
+      "content": "Please find attached the invoice for last month's services.",
+      "read": true
+    },
+    {
+      "sender": "Ivy",
+      "subject": "Weekly Report",
+      "content": "Here's the report for this week. Overall progress is on track.",
+      "read": false
+    },
+    {
+      "sender": "Jack",
+      "subject": "System Downtime",
+      "content": "Scheduled maintenance from 2 AM to 4 AM this Saturday.",
+      "read": true
+    }
+  ]
+  
